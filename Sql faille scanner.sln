@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL faille scanner", "Sql faille scanner\SQL faille scanner.csproj", "{5347E9ED-4480-43AD-BCCD-5C16AB4F4AD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFS QuadCore beta", "SFC QuadCore beta\SFS QuadCore beta.csproj", "{5BE94F4C-4BA8-4ADD-B09C-1BFDD5963E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5347E9ED-4480-43AD-BCCD-5C16AB4F4AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5347E9ED-4480-43AD-BCCD-5C16AB4F4AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5347E9ED-4480-43AD-BCCD-5C16AB4F4AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5347E9ED-4480-43AD-BCCD-5C16AB4F4AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE94F4C-4BA8-4ADD-B09C-1BFDD5963E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE94F4C-4BA8-4ADD-B09C-1BFDD5963E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE94F4C-4BA8-4ADD-B09C-1BFDD5963E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE94F4C-4BA8-4ADD-B09C-1BFDD5963E19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
